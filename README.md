@@ -20,6 +20,8 @@ The objectives of this project is:
 - Build a personal portfolio site.
 - Use images and backgrounds to enhance the look of the website.
 
+- Website link: https://emiliazm.github.io/emiliazm-github.io/
+
 
 
 ## Authors
