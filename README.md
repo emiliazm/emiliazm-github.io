@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-##Porject Name
+## Porject Name
 Portfolio.
 
 > Description the project.
@@ -11,8 +11,6 @@ If you like what you see and have a project you need coded, don’t hesitate and
 ## Built With
 - HTML
 - CSS
-
-## Getting Started
 
 ## Live Demo
 [Live Demo Linnk](https://emiliazm.github.io/emiliazm-github.io/)
@@ -47,8 +45,10 @@ The objectives of this project is:
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!.
 
+Feel free to check the [issues page](../../issues/)
 
 ## Show your support
+Give a ⭐️ if you like this project!.
 Give a ⭐️ if you like this project!.
 
 ## Acknowledgments
